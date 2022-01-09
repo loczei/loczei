@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @loczei
+Hi, I’m @loczei
